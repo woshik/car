@@ -4301,6 +4301,7 @@ ul.tabs li.active {
 }
 .contacts-maps {
 	z-index: 4;
+	padding: 0 0 50px 0;
 }
 .chempion-row-gallery li {
 	color: rgba(255, 255, 255, 0.8);
