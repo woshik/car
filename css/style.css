@@ -4892,7 +4892,7 @@ ul.tabs li.active {
 		width: 100%;
 		bottom: initial;
 	}
-	.page-id-308 .head-contacts-section {
+	.contact-page-footer .head-contacts-section {
 		width: 100%;
 		height: auto;
 		display: table;
@@ -5121,7 +5121,7 @@ ul.tabs li.active {
 		display: table;
 		font-family: roboto-regular;
 		font-size: 12px;
-		margin: -90px auto 20px;
+		margin: 0 auto 20px;
 	}
 	div.wpcf7-mail-sent-ok {
 		border: initial !important;
